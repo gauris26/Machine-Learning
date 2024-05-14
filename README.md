@@ -1,4 +1,4 @@
-# Geographic Location of Schools in Chile - WIP
+# Geographic Location of Schools in Chile
 ## K-Means - Geographical Clustering
 
 **Data Set**: [Localizacion geografica de colegios de Chile](https://www.kaggle.com/datasets/maxigaarp/localizacion-geografica-de-colegios-de-chile)
