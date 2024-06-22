@@ -1,0 +1,7 @@
+python-telegram-bot==13.7
+numpy==1.25.2
+scipy==1.11.4
+pandas==2.0.3
+geopandas==0.13.2
+scikit-learn==1.2.2
+scikit==1.2.2
